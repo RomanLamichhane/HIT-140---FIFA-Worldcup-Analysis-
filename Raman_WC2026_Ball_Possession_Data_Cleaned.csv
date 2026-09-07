@@ -1,0 +1,49 @@
+team_id,team_name,fifa_code,matches_observed,average_possession_pct,median_possession_pct,min_possession_pct,max_possession_pct
+17,Germany,GER,4,63.5,61.0,56.0,76.0
+29,Spain,ESP,8,61.125,58.5,54.0,74.0
+16,Türkiye,TUR,3,59.0,62.0,48.0,67.0
+37,Argentina,ARG,8,57.875,57.5,46.0,73.0
+3,South Korea,KOR,3,57.667,54.0,51.0,68.0
+38,Algeria,ALG,4,56.75,53.0,50.0,71.0
+32,Uruguay,URU,3,56.667,63.0,42.0,65.0
+9,Brazil,BRA,5,56.4,59.0,34.0,69.0
+44,Colombia,COL,5,56.4,56.0,52.0,61.0
+41,Portugal,POR,5,56.2,62.0,44.0,68.0
+25,Belgium,BEL,6,55.667,57.5,43.0,65.0
+33,France,FRA,8,55.625,54.5,41.0,76.0
+10,Morocco,MAR,6,54.5,54.5,41.0,70.0
+45,England,ENG,8,52.75,54.0,33.0,67.0
+34,Senegal,SEN,4,52.25,48.0,44.0,69.0
+1,Mexico,MEX,5,52.0,50.0,37.0,67.0
+20,Ecuador,ECU,4,52.0,50.5,44.0,63.0
+36,Norway,NOR,6,52.0,50.0,42.0,66.0
+13,USA,USA,5,51.2,52.0,42.0,59.0
+21,Netherlands,NED,4,50.25,54.5,30.0,62.0
+8,Switzerland,SUI,6,50.0,51.5,37.0,58.0
+2,South Africa,RSA,4,48.25,50.5,32.0,60.0
+19,Côte d'Ivoire,CIV,4,48.25,46.5,41.0,59.0
+5,Canada,CAN,5,48.2,45.0,37.0,65.0
+46,Croatia,CRO,4,47.5,48.0,38.0,56.0
+26,Egypt,EGY,5,47.4,47.0,39.0,58.0
+39,Austria,AUT,4,46.25,48.0,36.0,53.0
+22,Japan,JPN,4,45.75,45.0,31.0,62.0
+23,Sweden,SWE,4,45.0,46.0,39.0,49.0
+12,Scotland,SCO,3,44.0,41.0,35.0,56.0
+48,Panama,PAN,3,44.0,44.0,33.0,55.0
+42,Congo DR,COD,4,42.75,41.0,25.0,64.0
+4,Czechia,CZE,3,42.667,46.0,32.0,50.0
+24,Tunisia,TUN,3,42.333,38.0,38.0,51.0
+6,Bosnia and Herzegovina,BIH,4,42.25,43.0,29.0,54.0
+27,IR Iran,IRN,3,42.0,43.0,30.0,53.0
+11,Haiti,HAI,3,41.0,41.0,38.0,44.0
+47,Ghana,GHA,4,40.5,40.0,35.0,47.0
+28,New Zealand,NZL,3,39.667,39.0,35.0,45.0
+15,Australia,AUS,4,38.75,36.0,27.0,56.0
+18,Curaçao,CUW,3,38.333,37.0,37.0,41.0
+30,Cabo Verde,CPV,4,37.0,35.5,26.0,51.0
+31,Saudi Arabia,KSA,3,36.333,33.0,27.0,49.0
+35,Iraq,IRQ,3,36.333,34.0,31.0,44.0
+43,Uzbekistan,UZB,3,35.667,36.0,33.0,38.0
+7,Qatar,QAT,3,31.333,28.0,20.0,46.0
+40,Jordan,JOR,3,29.667,29.0,27.0,33.0
+14,Paraguay,PAR,5,27.8,24.0,19.0,44.0

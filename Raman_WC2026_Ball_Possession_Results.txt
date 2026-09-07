@@ -1,0 +1,42 @@
+FIFA World Cup 2026 — Ball Possession Analysis
+
+Analytical question:
+Does average possession among teams in the 2026 FIFA World Cup differ significantly from 50%?
+
+Unit of analysis:
+One observation per national team. Match-level possession percentages were averaged for each team.
+
+Descriptive statistics:
+n = 48
+Mean = 47.27%
+Median = 47.85%
+Standard deviation = 8.57
+Minimum = 27.80%
+Q1 = 41.75%
+Q3 = 54.78%
+Maximum = 63.50%
+
+95% confidence interval for the mean:
+[44.78%, 49.76%]
+
+Hypotheses:
+H0: mu = 50%
+H1: mu != 50%
+
+One-sample t-test:
+t(47) = -2.209
+p = 0.0321
+
+Decision at alpha = 0.05:
+Reject H0
+
+Interpretation:
+The mean team possession is 47.27%. The 95% confidence interval is
+44.78% to 49.76%. Since p = 0.0321 is below 0.05,
+the sample provides evidence that the mean possession across teams differs
+significantly from 50%. In this dataset, the observed mean is below 50%.
+
+Data-quality note:
+The raw match_team_stats.csv contains some matches where the two listed
+possession percentages do not sum to 100%. Results above use the possession
+values exactly as supplied in the uploaded dataset and aggregate them by team.
