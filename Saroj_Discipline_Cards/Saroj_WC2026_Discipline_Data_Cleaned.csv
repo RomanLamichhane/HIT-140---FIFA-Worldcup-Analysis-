@@ -1,0 +1,49 @@
+team_id,team_name,fifa_code,matches_played,avg_fouls_per_match,yellow_cards_total,red_cards_total,yellow_cards_per_match,red_cards_per_match,foul_group
+1,Mexico,MEX,5,11.4,2,1,0.4,0.2,High fouls
+2,South Africa,RSA,4,11.75,2,2,0.5,0.5,High fouls
+3,South Korea,KOR,3,8.666666666666666,1,0,0.3333333333333333,0.0,Low fouls
+4,Czechia,CZE,3,11.333333333333334,1,0,0.3333333333333333,0.0,High fouls
+5,Canada,CAN,5,14.2,1,0,0.2,0.0,High fouls
+6,Bosnia and Herzegovina,BIH,4,13.5,1,1,0.25,0.25,High fouls
+7,Qatar,QAT,3,12.0,1,2,0.3333333333333333,0.6666666666666666,High fouls
+8,Switzerland,SUI,6,11.666666666666666,1,0,0.16666666666666666,0.0,High fouls
+9,Brazil,BRA,5,9.0,1,0,0.2,0.0,Low fouls
+10,Morocco,MAR,6,12.5,0,0,0.0,0.0,High fouls
+11,Haiti,HAI,3,12.666666666666666,3,0,1.0,0.0,High fouls
+12,Scotland,SCO,3,11.333333333333334,0,0,0.0,0.0,High fouls
+13,USA,USA,5,10.6,3,1,0.6,0.2,Low fouls
+14,Paraguay,PAR,5,13.2,1,1,0.2,0.2,High fouls
+15,Australia,AUS,4,12.0,5,0,1.25,0.0,High fouls
+16,Türkiye,TUR,3,9.666666666666666,0,0,0.0,0.0,Low fouls
+17,Germany,GER,4,11.25,0,0,0.0,0.0,High fouls
+18,Curaçao,CUW,3,13.333333333333334,1,0,0.3333333333333333,0.0,High fouls
+19,Côte d'Ivoire,CIV,4,9.25,0,0,0.0,0.0,Low fouls
+20,Ecuador,ECU,4,13.25,0,1,0.0,0.25,High fouls
+21,Netherlands,NED,4,11.25,0,0,0.0,0.0,High fouls
+22,Japan,JPN,4,11.0,0,0,0.0,0.0,Low fouls
+23,Sweden,SWE,4,11.5,0,0,0.0,0.0,High fouls
+24,Tunisia,TUN,3,9.333333333333334,0,0,0.0,0.0,Low fouls
+25,Belgium,BEL,6,12.333333333333334,1,1,0.16666666666666666,0.16666666666666666,High fouls
+26,Egypt,EGY,5,12.2,0,0,0.0,0.0,High fouls
+27,IR Iran,IRN,3,10.0,0,0,0.0,0.0,Low fouls
+28,New Zealand,NZL,3,10.666666666666666,0,0,0.0,0.0,Low fouls
+29,Spain,ESP,8,8.875,0,0,0.0,0.0,Low fouls
+30,Cabo Verde,CPV,4,7.0,1,0,0.25,0.0,Low fouls
+31,Saudi Arabia,KSA,3,12.333333333333334,3,0,1.0,0.0,High fouls
+32,Uruguay,URU,3,10.0,0,0,0.0,0.0,Low fouls
+33,France,FRA,8,9.375,1,0,0.125,0.0,Low fouls
+34,Senegal,SEN,4,9.0,2,0,0.5,0.0,Low fouls
+35,Iraq,IRQ,3,9.0,2,1,0.6666666666666666,0.3333333333333333,Low fouls
+36,Norway,NOR,6,9.833333333333334,1,0,0.16666666666666666,0.0,Low fouls
+37,Argentina,ARG,8,10.25,0,0,0.0,0.0,Low fouls
+38,Algeria,ALG,4,8.0,0,0,0.0,0.0,Low fouls
+39,Austria,AUT,4,11.75,0,0,0.0,0.0,High fouls
+40,Jordan,JOR,3,10.666666666666666,0,0,0.0,0.0,Low fouls
+41,Portugal,POR,5,8.4,0,0,0.0,0.0,Low fouls
+42,Congo DR,COD,4,10.5,0,0,0.0,0.0,Low fouls
+43,Uzbekistan,UZB,3,14.0,0,0,0.0,0.0,High fouls
+44,Colombia,COL,5,11.6,0,0,0.0,0.0,High fouls
+45,England,ENG,8,10.25,0,1,0.0,0.125,Low fouls
+46,Croatia,CRO,4,10.5,0,0,0.0,0.0,Low fouls
+47,Ghana,GHA,4,10.75,0,0,0.0,0.0,Low fouls
+48,Panama,PAN,3,13.666666666666666,0,0,0.0,0.0,High fouls

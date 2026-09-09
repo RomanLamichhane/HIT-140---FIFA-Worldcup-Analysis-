@@ -1,0 +1,40 @@
+FIFA World Cup 2026 — Discipline Analysis
+
+Analytical question:
+Do teams with higher foul rates receive significantly more yellow cards per match
+than teams with lower foul rates?
+
+Method:
+Teams were divided into two equal groups using the median average fouls per match
+(11.125 fouls per match). Yellow-card rate was calculated as total
+yellow cards divided by matches played. A Welch independent two-sample t-test was used.
+
+Descriptive statistics:
+High-foul group: n = 24, mean yellow cards/match = 0.256, SD = 0.357
+Low-foul group:  n = 24, mean yellow cards/match = 0.118, SD = 0.206
+Mean difference (High - Low) = 0.137
+
+95% confidence interval for the mean difference:
+[-0.033, 0.308] yellow cards per match
+
+Hypotheses:
+H0: mean yellow-card rate is equal for high-foul and low-foul teams
+H1: mean yellow-card rate differs between high-foul and low-foul teams
+
+Welch two-sample t-test:
+t(36.76) = 1.629
+p = 0.1118
+
+Decision at alpha = 0.05:
+Fail to reject H0
+
+Conclusion:
+The high-foul group averaged 0.256 yellow cards per match, compared with
+0.118 for the low-foul group. Since p = 0.1118 is greater than 0.05,
+there is insufficient evidence in this dataset to conclude that the two groups have
+different mean yellow-card rates.
+
+Data note:
+The analysis uses event records labelled "Yellow Card" and "Red Card" from
+match_events.csv, match counts and fouls from match_team_stats.csv, and team names
+from teams.csv.
