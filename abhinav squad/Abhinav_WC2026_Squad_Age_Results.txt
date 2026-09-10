@@ -1,0 +1,31 @@
+FIFA World Cup 2026 — Squad Age Analysis
+
+Analytical question:
+Do higher-ranked teams have a significantly different average squad age
+than lower-ranked teams?
+
+Method:
+Player ages were calculated on 11 June 2026, the tournament opening date.
+Each team's mean squad age was then calculated. Teams were split at the median
+pre-tournament FIFA ranking (26.5).
+
+Higher-ranked group: n = 24, mean squad age = 27.95, SD = 1.05
+Lower-ranked group:  n = 24, mean squad age = 27.93, SD = 1.20
+Mean difference = 0.02 years
+
+95% CI for mean difference:
+[-0.63, 0.68] years
+
+Hypotheses:
+H0: mean squad age is equal between higher-ranked and lower-ranked teams
+H1: mean squad age differs between the two groups
+
+Welch two-sample t-test:
+t(45.22) = 0.070
+p = 0.9446
+
+Decision:
+Fail to reject H0
+
+Conclusion:
+There is insufficient evidence that higher-ranked and lower-ranked teams differ in average squad age.
