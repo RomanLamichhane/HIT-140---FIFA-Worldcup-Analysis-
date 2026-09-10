@@ -1,0 +1,49 @@
+team_id,team_name,fifa_code,fifa_ranking_pre_tournament,total_goals,total_assists,matches_played,attacking_contributions,attacking_contributions_per_match,ranking_group
+1,Mexico,MEX,14,10,7,5,17,3.4,Higher-ranked
+2,South Africa,RSA,60,2,1,4,3,0.75,Lower-ranked
+3,South Korea,KOR,22,2,2,3,4,1.3333333333333333,Higher-ranked
+4,Czechia,CZE,40,2,2,3,4,1.3333333333333333,Lower-ranked
+5,Canada,CAN,33,8,3,5,11,2.2,Lower-ranked
+6,Bosnia and Herzegovina,BIH,64,4,3,4,7,1.75,Lower-ranked
+7,Qatar,QAT,56,1,1,3,2,0.6666666666666666,Lower-ranked
+8,Switzerland,SUI,19,10,8,6,18,3.0,Higher-ranked
+9,Brazil,BRA,6,10,8,5,18,3.6,Higher-ranked
+10,Morocco,MAR,7,10,6,6,16,2.6666666666666665,Higher-ranked
+11,Haiti,HAI,83,1,0,3,1,0.3333333333333333,Lower-ranked
+12,Scotland,SCO,39,1,0,3,1,0.3333333333333333,Lower-ranked
+13,USA,USA,17,9,6,5,15,3.0,Higher-ranked
+14,Paraguay,PAR,54,3,3,5,6,1.2,Lower-ranked
+15,Australia,AUS,27,2,1,4,3,0.75,Lower-ranked
+16,Türkiye,TUR,26,3,2,3,5,1.6666666666666667,Higher-ranked
+17,Germany,GER,10,11,10,4,21,5.25,Higher-ranked
+18,Curaçao,CUW,82,1,0,3,1,0.3333333333333333,Lower-ranked
+19,Côte d'Ivoire,CIV,38,5,2,4,7,1.75,Lower-ranked
+20,Ecuador,ECU,23,2,2,4,4,1.0,Higher-ranked
+21,Netherlands,NED,8,10,8,4,18,4.5,Higher-ranked
+22,Japan,JPN,18,8,6,4,14,3.5,Higher-ranked
+23,Sweden,SWE,25,7,5,4,12,3.0,Higher-ranked
+24,Tunisia,TUN,45,2,1,3,3,1.0,Lower-ranked
+25,Belgium,BEL,9,13,5,6,18,3.0,Higher-ranked
+26,Egypt,EGY,36,8,6,5,14,2.8,Lower-ranked
+27,IR Iran,IRN,20,3,1,3,4,1.3333333333333333,Higher-ranked
+28,New Zealand,NZL,85,4,3,3,7,2.3333333333333335,Lower-ranked
+29,Spain,ESP,2,13,10,8,23,2.875,Higher-ranked
+30,Cabo Verde,CPV,67,4,0,4,4,1.0,Lower-ranked
+31,Saudi Arabia,KSA,58,1,0,3,1,0.3333333333333333,Lower-ranked
+32,Uruguay,URU,16,3,2,3,5,1.6666666666666667,Higher-ranked
+33,France,FRA,3,20,18,8,38,4.75,Higher-ranked
+34,Senegal,SEN,15,10,9,4,19,4.75,Higher-ranked
+35,Iraq,IRQ,55,1,1,3,2,0.6666666666666666,Lower-ranked
+36,Norway,NOR,44,12,8,6,20,3.3333333333333335,Lower-ranked
+37,Argentina,ARG,1,18,9,8,27,3.375,Higher-ranked
+38,Algeria,ALG,28,5,4,4,9,2.25,Lower-ranked
+39,Austria,AUT,24,5,4,4,9,2.25,Higher-ranked
+40,Jordan,JOR,63,3,3,3,6,2.0,Lower-ranked
+41,Portugal,POR,5,7,5,5,12,2.4,Higher-ranked
+42,Congo DR,COD,61,5,2,4,7,1.75,Lower-ranked
+43,Uzbekistan,UZB,50,2,1,3,3,1.0,Lower-ranked
+44,Colombia,COL,13,5,5,5,10,2.0,Higher-ranked
+45,England,ENG,4,20,14,8,34,4.25,Higher-ranked
+46,Croatia,CRO,11,6,5,4,11,2.75,Higher-ranked
+47,Ghana,GHA,49,2,2,4,4,1.0,Lower-ranked
+48,Panama,PAN,34,0,0,3,0,0.0,Lower-ranked
